@@ -7,6 +7,7 @@
 </div> -->
 
 ![:name](https://count.getloli.com/get/@:JarhsonNing)  
+[![0210a62da3a45c81bf614cd30a3aa0ee](https://github.com/JarhsonNing/JarhsonNing/assets/38233762/8df05e0c-fb7e-4959-b450-c5e2a2d4ae2c)](https://viteconf.org/23/tickets/JarhsonNing)
 
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
